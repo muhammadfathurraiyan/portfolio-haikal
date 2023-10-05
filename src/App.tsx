@@ -1,4 +1,3 @@
-import About from "./elements/About";
 import Home from "./elements/Home";
 import Navbar from "./elements/Navbar";
 import Socmed from "./elements/Socmed";
