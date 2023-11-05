@@ -4,8 +4,11 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    scroll-behavior: smooth;
+  }
   body {
-    @apply text-neutral-50 bg-neutral-900 font-['Roboto_Condensed',_sans-serif];
+    @apply text-neutral-900 bg-neutral-100 font-['Roboto_Condensed',_sans-serif];
   }
   .path-0 {
     animation: pathAnim-0 9s;
