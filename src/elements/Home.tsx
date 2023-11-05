@@ -23,19 +23,22 @@ const Home = () => {
           <div className="flex gap-2 mt-2">
             <a
               className="p-2 hover:bg-neutral-700 bg-neutral-900 text-neutral-50 rounded-lg duration-300"
-              href=""
+              href="https://instagram.com/teeukuuhaikal_22/"
+              target="_blank"
             >
               <FaInstagram style={{ fontSize: "1rem" }} />
             </a>
             <a
               className="p-2 hover:bg-neutral-700 bg-neutral-900 text-neutral-50 rounded-lg duration-300"
-              href=""
+              href="https://www.tiktok.com/@m.haikal.al.fata?_t=8h5ug0HFIyW&_r=1"
+              target="_blank"
             >
               <FaTiktok style={{ fontSize: "1rem" }} />
             </a>
             <a
               className="p-2 hover:bg-neutral-700 bg-neutral-900 text-neutral-50 rounded-lg duration-300"
-              href=""
+              href="https://instagram.com/teeukuuhaikal_22/"
+              target="_blank"
             >
               <FaXTwitter style={{ fontSize: "1rem" }} />
             </a>
