@@ -8,7 +8,6 @@ const App = () => {
   return (
     <>
       <Navbar />
-      {/* <Socmed /> */}
       <main>
         <section
           id="home"
