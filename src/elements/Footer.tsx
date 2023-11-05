@@ -8,9 +8,9 @@ const Footer = () => {
       <div className="flex flex-col gap-1 items-center justify-center">
         <h1 className="text-xl font-bold">Haikal.</h1>
         <div className="flex gap-4">
-          <a href="">Home</a>
-          <a href="">Journey</a>
-          <a href="">Contact</a>
+          <a href="home">Home</a>
+          <a href="journey">Journey</a>
+          <a href="contact">Contact</a>
         </div>
         <div>
           <div className="flex gap-2">
