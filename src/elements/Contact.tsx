@@ -17,9 +17,9 @@ const Contact = () => {
             <FaEnvelope style={{ fontSize: "1.8rem" }} />
             <div className="flex flex-col items-center justify-center">
               <h3 className="font-bold">Email</h3>
-              <p className="max-sm:hidden">moezaabu@gmail.com</p>
+              <p className="max-sm:hidden">teukuhaikal0702@gmail.com</p>
             </div>
-            <a href="mailto:moezaabu@gmail.com" className="flex font-bold items-center gap-2 group">
+            <a href="mailto:teukuhaikal0702@gmail.com" className="flex font-bold items-center gap-2 group">
               Contact
               <span className="group-hover:translate-x-1 duration-300">
                 <FaArrowRight style={{ fontSize: "0.8rem" }} />
