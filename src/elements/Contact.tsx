@@ -1,4 +1,9 @@
-import { FaArrowRight, FaEnvelope, FaInstagram } from "react-icons/fa";
+import {
+  FaArrowRight,
+  FaEnvelope,
+  FaInstagram,
+  FaTiktok,
+} from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 const Contact = () => {
@@ -19,7 +24,10 @@ const Contact = () => {
               <h3 className="font-bold">Email</h3>
               <p className="max-sm:hidden">teukuhaikal0702@gmail.com</p>
             </div>
-            <a href="mailto:teukuhaikal0702@gmail.com" className="flex font-bold items-center gap-2 group">
+            <a
+              href="mailto:teukuhaikal0702@gmail.com"
+              className="flex font-bold items-center gap-2 group"
+            >
               Contact
               <span className="group-hover:translate-x-1 duration-300">
                 <FaArrowRight style={{ fontSize: "0.8rem" }} />
@@ -32,7 +40,11 @@ const Contact = () => {
               <h3 className="font-bold">Instagram</h3>
               <p className="max-sm:hidden">@teeukuuhaikal_22</p>
             </div>
-            <a href="https://instagram.com/teeukuuhaikal_22/" target="_blank" className="flex font-bold items-center gap-2 group">
+            <a
+              href="https://instagram.com/teeukuuhaikal_22/"
+              target="_blank"
+              className="flex font-bold items-center gap-2 group"
+            >
               Contact
               <span className="group-hover:translate-x-1 duration-300">
                 <FaArrowRight style={{ fontSize: "0.8rem" }} />
@@ -40,12 +52,16 @@ const Contact = () => {
             </a>
           </div>
           <div className="p-2 max-sm:p-4 gap-2 flex flex-col items-center justify-center rounded-lg border border-neutral-500">
-            <FaXTwitter style={{ fontSize: "1.8rem" }} />
+            <FaTiktok style={{ fontSize: "1.8rem" }} />
             <div className="flex flex-col items-center justify-center">
               <h3 className="font-bold">X</h3>
               <p className="max-sm:hidden">@teeukuuhaikal_22</p>
             </div>
-            <a href="https://instagram.com/teeukuuhaikal_22/" target="_blank" className="flex font-bold items-center gap-2 group">
+            <a
+              href="https://www.tiktok.com/@teeukuuhaikal_22"
+              target="_blank"
+              className="flex font-bold items-center gap-2 group"
+            >
               Contact
               <span className="group-hover:translate-x-1 duration-300">
                 <FaArrowRight style={{ fontSize: "0.8rem" }} />

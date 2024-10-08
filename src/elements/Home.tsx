@@ -17,8 +17,8 @@ const Home = () => {
         </div>
         <p>
           Passionate about the iconic Yamaha RX King motorcycle known for its
-          power and style. I am intersested to its performance, history, and
-          the culture surrounding this classic bike, which has a strong fanbase.
+          power and style. I am intersested to its performance, history, and the
+          culture surrounding this classic bike, which has a strong fanbase.
         </p>
         <div>
           <div className="flex gap-2 mt-2">
@@ -31,7 +31,7 @@ const Home = () => {
             </a>
             <a
               className="p-2 hover:bg-neutral-700 bg-neutral-900 text-neutral-50 rounded-lg duration-300"
-              href="https://www.tiktok.com/@m.haikal.al.fata?_t=8h5ug0HFIyW&_r=1"
+              href="https://www.tiktok.com/@teeukuuhaikal_22"
               target="_blank"
             >
               <FaTiktok style={{ fontSize: "1rem" }} />
