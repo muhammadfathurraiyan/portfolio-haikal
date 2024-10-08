@@ -1,6 +1,7 @@
 import { FaInstagram, FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import Foto from "../assets/foto9.jpg";
+import Image from "./Image";
 
 const Home = () => {
   return (
@@ -12,12 +13,12 @@ const Home = () => {
         </h1>
         <div className="flex items-center gap-2 mb-2">
           <div className="h-[2px] w-16 rounded-full bg-neutral-600" />
-          <p className="text-xl font- italic">Audio Enginer</p>
+          <p className="text-xl font- italic">RX King Enthusiast</p>
         </div>
         <p>
-          A talented audio engineer with a passion for creativity and
-          technology. Delivering unforgettable listening experiences through
-          precision acoustics and dynamic collaboration.
+          Passionate about the iconic Yamaha RX King motorcycle known for its
+          power and style. I am intersested to its performance, history, and
+          the culture surrounding this classic bike, which has a strong fanbase.
         </p>
         <div>
           <div className="flex gap-2 mt-2">
@@ -46,10 +47,10 @@ const Home = () => {
         </div>
       </div>
       <div className="max-sm:-order-1">
-        <img
+        <Image
           className="w-[350px] shadow-lg max-sm:w-[250px] rounded-lg"
           src={Foto}
-          alt=""
+          alt="my pic"
         />
       </div>
     </div>

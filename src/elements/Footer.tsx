@@ -43,7 +43,7 @@ const Footer = () => {
         <a
           className="font-bold underline"
           target="_blank"
-          href="https://muhammadfathurraiyan.site/"
+          href="https://muhammadfathurraiyan.vercel.app/"
         >
           Raiyan.
         </a>

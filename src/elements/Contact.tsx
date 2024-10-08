@@ -29,7 +29,7 @@ const Contact = () => {
           <div className="p-2 max-sm:p-4 gap-2 flex flex-col items-center justify-center rounded-lg border border-neutral-500">
             <FaInstagram style={{ fontSize: "1.8rem" }} />
             <div className="flex flex-col items-center justify-center">
-              <h3 className="font-bold">Email</h3>
+              <h3 className="font-bold">Instagram</h3>
               <p className="max-sm:hidden">@teeukuuhaikal_22</p>
             </div>
             <a href="https://instagram.com/teeukuuhaikal_22/" target="_blank" className="flex font-bold items-center gap-2 group">
